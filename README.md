@@ -1,7 +1,6 @@
 # Employee Attrition Analysis
-This project provides a comprehensive analysis of employee attrition
 ---
-
+This project provides a comprehensive analysis of employee attrition using python and it's libraries.
 ## Description
 This project provides a comprehensive analysis of employee attrition, identifying key factors influencing turnover and offering actionable insights to improve employee retention. The analysis leverages a dataset of 14,900 employees with various attributes including demographics, job-related information, and performance metrics.
 
