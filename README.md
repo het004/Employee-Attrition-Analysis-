@@ -1,5 +1,5 @@
 # Employee Attrition Analysis
-
+This project provides a comprehensive analysis of employee attrition
 ---
 
 ## Description
